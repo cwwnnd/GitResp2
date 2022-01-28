@@ -1,0 +1,13 @@
+
+cww@DESKTOP-B0B0FM9 MINGW64 ~/Desktop
+$ git --version
+git version 2.35.0.windows.1
+
+cww@DESKTOP-B0B0FM9 MINGW64 ~/Desktop
+$ clear
+
+cww@DESKTOP-B0B0FM9 MINGW64 ~/Desktop
+$ git config --global user.name "cww"
+
+cww@DESKTOP-B0B0FM9 MINGW64 ~/Desktop
+$ git config --global user.email "1395740231@qq.com"
